@@ -1,10 +1,10 @@
 # Assignment Details (ID Card Maker)
 
 ## Landing page
-<!-- <p> Name, email, Course, Batch , phone number and image has been taken in the form </p> -->
+* Name, email, Course, Batch , phone number and image has been taken in the form 
 ![form](img/1.png)
 
 ## ID Generation Page
-<!-- <p>ID has been generated upto the given information</p> -->
+* ID has been generated upto the given information
 ![id-degeneration](img/2.png)
 
