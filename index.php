@@ -8,7 +8,7 @@
     <link rel='stylesheet' type='text/css' media='screen' href='styles/main.css'>
 </head>
 <body>
-    <div class="outer">
+    <div class="outer" style="display: flex; justify-content: center;">
     <div class="container">
         <form id="form" action="actions/action.php" method="POST">
         <label for="name">Enter Name:</label>
